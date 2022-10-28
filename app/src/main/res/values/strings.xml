@@ -4,4 +4,7 @@
     <string name="txt_splash_screen">Splash Screen</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_movie">Movie</string>
+    <string name="txt_non_movie">Non Movie</string>
+    <string name="txt_tab_anime">Tab Anime</string>
 </resources>
